@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var webView: WebView
     private lateinit var errorView: LinearLayout
     private lateinit var errorTextView: TextView
-    private val websiteUrl = "https://sites.google.com/view/mezobereny-app/"
+    private val websiteUrl = "https://sites.google.com/"
     private lateinit var exitButton: FloatingActionButton
     private lateinit var backButton: FloatingActionButton
 
